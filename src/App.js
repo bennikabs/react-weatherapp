@@ -1,4 +1,5 @@
 import React from "react";
+import Weather from "./Weather";
 
 import axios from "axios";
 import "./App.css";
@@ -7,6 +8,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
+        <Weather />
         <footer>
           <a
             href="https://github.com/bennikabs/react-weatherapp.git"
