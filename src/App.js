@@ -1,7 +1,6 @@
 import React from "react";
 import Weather from "./Weather";
 
-import axios from "axios";
 import "./App.css";
 
 export default function App() {
@@ -13,11 +12,18 @@ export default function App() {
           <a
             href="https://github.com/bennikabs/react-weatherapp.git"
             target="_blank"
+            rel="noreferrer"
           >
             Open SourceCode{""}
           </a>
           by{" "}
-          <a href="https://vermillion-dango-08c067.netlify.app/">Benny Kabs</a>
+          <a
+            href="https://vermillion-dango-08c067.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Benny Kabs
+          </a>
         </footer>
       </div>
     </div>
