@@ -27,7 +27,7 @@ export default function Weather() {
         <div className="col-6">
           <img
             src="//ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="weather image"
+            alt="weather icon"
           />{" "}
           6°C
         </div>
