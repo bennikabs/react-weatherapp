@@ -1,5 +1,5 @@
 .Weather {
-    border: 1px solid black;
+    border: 1px solid #dadde1;
     font-family: arial, sans-serif;
     color: rgb(135, 135, 135);
     padding: 16px;
@@ -52,6 +52,5 @@
     font-weight: 400;
     position: relative;
     top: -32px;
-    margin-left: 5px;
     line-height: 1;
 }
