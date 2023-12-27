@@ -14,8 +14,8 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Open SourceCode{""}
-          </a>
+            Open-source code{""}
+          </a>{" "}
           by{" "}
           <a
             href="https://vermillion-dango-08c067.netlify.app/"
